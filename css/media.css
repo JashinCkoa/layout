@@ -1,0 +1,216 @@
+
+@media only screen and (max-width: 378px){
+    
+    
+    
+    .headerV{
+        display: none;
+    }
+    .headerW{
+        padding-top:36px;
+        justify-content: flex-start;
+    }
+    .header_pic{
+        padding-left: 71px;
+    }
+    .header_mobile_pic{
+        padding-left:34px;
+    }
+
+    .intr{
+        min-height: 0;
+        padding-top:115px;
+    }
+    .intrt{
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        margin-bottom: 13px;
+    }
+    .intrs{
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 16px;
+        text-align:center;
+        margin-bottom: 41px;
+    }
+    .som{
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 16px;
+        display: flex;
+        justify-content: center;
+        padding-bottom:50px;
+    }
+ 
+    .about{
+        margin-top:25px;
+        margin-bottom:8px;;
+    }
+    .aboutt{
+        text-align: center;
+        font-weight: 600;
+        margin-bottom:19px;
+    }
+    .aboutt2{
+        font-size: 12px;
+        line-height: 15px;
+        margin:0 29px 8px 34px;
+    }
+    
+    .skills {
+        padding-bottom: 25px;
+    }
+    .skillsbar{
+        flex-direction:column;
+        align-items: center;
+    }
+    .skillst {
+        margin-bottom:25px;
+        padding-top:25px;
+        text-align:center;
+    }
+    .skills_img { 
+        width: 224px;
+        height: 218px;
+        text-align: center;
+    }
+    .skilssP{
+        min-width:375px;
+    }
+    .nameP {
+        margin:0 32px 10px 32px;
+        font-size: 12px;
+    }
+    .nameK {
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .engin, .paper, .adobe, .html {
+         min-width: 211px;
+    }
+    .progressB {
+        width: 211px;
+        height: 18px;
+        background-color: #F5D6AB;
+    }
+    .UX {
+        width: 180px;
+        height: 18px;
+    }
+    .UI{
+        width: 167px;
+        height: 18px;
+    }
+    .Front-end{
+        width: 136px;
+        height: 18px;
+    }
+    .skilss_bar_progress .profile {
+        margin-bottom: 35px;
+    
+}
+
+    .portfolio{
+        padding-top: 25px;
+        padding-bottom:25px;
+    }
+    .portfolioT{
+        font-weight: 600;
+        margin-bottom:22px;
+        text-align: center;
+    }
+    .portfolioS{
+        margin-bottom:18px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 25px;
+        text-align: center;
+    }
+    .portfolioT2{
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 15px;
+        align-items: center;
+        height: 71px;
+        width: 300px;
+        margin:0 34px 22px 34px;
+    }
+    .portfolio_imag{
+        margin:0 32px 0 32px;
+    }
+    .right_img{
+        margin-left:14px;
+    }
+   .small-pic{
+       width: 100%;
+       height:auto;
+       margin-bottom:14px;
+       margin-right: 0;
+   }
+   .big-pic{
+    width: 100%;
+    height: auto;
+   }
+   
+   .big_pic{
+       width: 100%;
+       height: auto;
+   }
+   .small_pic{
+      width: 100% ;
+      height: auto;
+      margin-top:14px;
+   }
+   .arow{
+       display:none;
+   }
+   .portfolio_wrapper{
+       display:flex;
+       flex-direction:column;
+   }
+  
+   .footer{
+       padding:0;
+   }
+    .touch_title{
+        padding-top: 25px;
+        margin-bottom: 25px;
+        text-align: center;
+        font-weight: 600;
+    }
+    .footer_touch_block{
+        display:flex;
+        flex-wrap:wrap;
+        padding-left: 42px;
+        font-size: 14px;
+        line-height: 17px;
+        margin-bottom: 0;
+    }
+    .touch_text{
+        margin-right:106px;
+    }
+    .footer_social_network{
+        margin-right:0;
+    }
+    .footer_contacts{
+        margin-top:30px;
+        margin-bottom:50px;
+    }
+    .img{
+        margin-left: 146px;
+        margin-bottom: 58px;
+    }
+    
+
+}
+@media only screen and (min-width: 379px){
+    .header_logo_menu_mobile{
+        display: none
+    }
+ 
+}
+@media only screen and (min-width: 420px){
+   
+
+}
